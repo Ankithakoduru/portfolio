@@ -43,7 +43,7 @@
 - Designed a high-fidelity Figma prototype for ArriveWise, an app offering essential information for international students moving to the USA  
 - Spearheaded product development, covering ideation, user research and creating wireframes to deliver a seamless platform experience  
 
-![Loan Application](/assets/img/bank_loan.jpg)
+![Loan Application](/assets/img/bank_loan_image.jpg)
 ### **Loan Application Classification Model** | [Github](https://github.com/Ankithakoduru/bank_loan_classification) (_Mar 2024 - May 2024_)  
 - Developed a binary classification model using logistic regression and random forest to predict the likelihood of loan application, aimed at maximizing profit and reducing promotional costs for a bank. Achieved a profit twice the average of my peers  
 - Used grid search and **custom scoring function** to identify optimal hyperparameters, driving significant profit growth for the bank’s loan application process  
