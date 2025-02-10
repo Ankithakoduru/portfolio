@@ -10,7 +10,7 @@
 ## **Professional Experience**  
 
 ### **Graduate Teaching Assistant | University of South Florida (_Aug 2024 – Present_)**  
-- Facilitated student learning by simplifying complex statistical concepts to foster deeper understanding
+- Facilitated student learning by simplifying complex statistical concepts to foster deeper understanding.
 - Developed and continuously maintained a comprehensive question bank, compiling frequently asked questions from office hours interactions, which served as a key resource for students to prepare for exams
 - Collected and analyzed student performance data using PowerBI, provided targeted feedback and recommendations for improvement, which resulted in 15% increase in class average grade  
 
