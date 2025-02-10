@@ -3,8 +3,8 @@
 #### **Technical Skills:** Agile & Scrum | Jira | Smartsheet | MS Project | Figma | Power BI | SQL | Python | Tableau  
 
 ## **Education**  
-- **M.S., Artificial Intelligence & Business Analytics** | University of South Florida (_Jan 2024 – Dec 2025_)  
-- **MBA, Human Resource Management & Consulting** | Welingkar Institute of Management (_Aug 2020 – May 2022_)  
+- **M.S, Artificial Intelligence & Business Analytics** | University of South Florida (_Jan 2024 – Dec 2025_)  
+- **M.B.A, Human Resource Management & Consulting** | Welingkar Institute of Management (_Aug 2020 – May 2022_)  
 - **B.Tech, Instrumentation Engineering** | Andhra University (_Jun 2015 – Apr 2019_)  
 
 ## **Work Experience**  
